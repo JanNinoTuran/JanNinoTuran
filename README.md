@@ -35,7 +35,7 @@
 
 - 📧 Email: [jan.nino.turan@gmail.com](mailto:turanjannino01@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/jannino]([https://linkedin.com/in/jannino](https://www.linkedin.com/in/jan-ni%C3%B1o-turan))
-- 🌐 Portfolio: [jannino.dev](https://jannino.dev) _(if available)_
+- 🌐 Portfolio: [jannino.dev](https://jannino.dev) 
 
 ---
 

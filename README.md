@@ -75,7 +75,7 @@ Hi, I'm **Jan Nino Turan**, a passionate software engineer with a sharp eye for 
 ### 📬 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/Jan Niño Turan/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=flat-square" /></a>
+  <a href="https://www.linkedin.com/in/jan-ni%C3%B1o-turan-6a9008374/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=flat-square" /></a>
   <a href="mailto:turanjannino01@gmail.com"><img src="https://img.shields.io/badge/Email-Send-FF6B6B?logo=gmail&logoColor=white&style=flat-square" /></a>
 </p>
 

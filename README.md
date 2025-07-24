@@ -1,14 +1,9 @@
-<!-- 🧩 HEADER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Jwczk4dmZmcGN1N2FzbWZ6aHF4NnE3Z2I2d3F1cWIya3ZndjA1YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="500" alt="Digital Matrix" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" alt="Animated Dog" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00A1D6&center=true&vCenter=true&width=700&lines=Jan+Nino+Turan+%7C+Software+Engineer;Crafting+Efficient+and+Scalable+Solutions;Expertise+in+Web+Development+and+Automation;Explore+My+Professional+Portfolio" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" alt="Animated Dog" />
 </p>
 
 ---

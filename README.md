@@ -7,6 +7,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00A1D6&center=true&vCenter=true&width=700&lines=Jan+Nino+Turan+%7C+Software+Engineer;Crafting+Efficient+and+Scalable+Solutions;Expertise+in+Web+Development+and+Automation;Explore+My+Professional+Portfolio" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" alt="Animated Dog" />
+</p>
+
 ---
 
 ### 🧠 About Me
@@ -43,29 +47,34 @@ Hi, I'm **Jan Nino Turan**, a passionate software engineer with a sharp eye for 
 
 ### 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td><strong>📍 L.I.G.T.A.S</strong></td>
-    <td>
-      Disaster Risk Reduction System for real-time alert and governance.<br/>
-      <strong>Stack:</strong> Node.js, MySQL, TypeScript, Tailwind CSS<br/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>🍽️ Restaurant Ordering System</strong></td>
-    <td>
-      Windows-based order tracking & printing app using Visual Studio.<br/>
-      <strong>Stack:</strong> Visual Studio 2012 (WinForms)<br/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>📸 UNISCANNER</strong></td>
-    <td>
-      QR-based attendance tracking for schools and organizations.<br/>
-      <strong>Stack:</strong> TypeScript, Tailwind CSS, Node.js<br/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <table>
+    <tr>
+      <td valign="top"><img src="https://img.icons8.com/fluency/48/000000/system-task.png"/></td>
+      <td>
+        <strong>L.I.G.T.A.S — Disaster Risk Reduction System</strong><br/>
+        Real-time alert and governance system built for community safety.<br/>
+        <em>🔧 Node.js · MySQL · TypeScript · Tailwind CSS</em>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top"><img src="https://img.icons8.com/color/48/000000/restaurant.png"/></td>
+      <td>
+        <strong>Restaurant Ordering System</strong><br/>
+        Local Windows-based solution for order tracking & printing.<br/>
+        <em>🔧 Visual Studio 2012 (WinForms)</em>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top"><img src="https://img.icons8.com/fluency/48/000000/qr-code.png"/></td>
+      <td>
+        <strong>UNISCANNER — QR Attendance Tracker</strong><br/>
+        Smart attendance solution for schools and events.<br/>
+        <em>🔧 TypeScript · Tailwind CSS · Node.js</em>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
@@ -74,6 +83,8 @@ Hi, I'm **Jan Nino Turan**, a passionate software engineer with a sharp eye for 
 <p align="center">
   <a href="https://www.linkedin.com/in/jan-ni%C3%B1o-turan-6a9008374/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=flat-square" /></a>
   <a href="mailto:turanjannino01@gmail.com"><img src="https://img.shields.io/badge/Email-Send-FF6B6B?logo=gmail&logoColor=white&style=flat-square" /></a>
+  <a href="https://facebook.com/me.janjanturan"><img src="https://img.shields.io/badge/Facebook-Follow-1877F2?logo=facebook&logoColor=white&style=flat-square" /></a>
+  <a href="https://instagram.com/_niggatronics"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white&style=flat-square" /></a>
 </p>
 
 ---
@@ -81,6 +92,3 @@ Hi, I'm **Jan Nino Turan**, a passionate software engineer with a sharp eye for 
 ### 🧭 Personal Motto
 
 > **"Engineering the future through precision and innovation."**
-
----
-

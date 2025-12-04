@@ -3,18 +3,18 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00A1D6&center=true&vCenter=true&width=700&lines=Jan+Nino+Turan+%7C+Software+Engineer;Crafting+Efficient+and+Scalable+Solutions;Expertise+in+Web+Development+and+Automation;Explore+My+Professional+Portfolio" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00A1D6&center=true&vCenter=true&width=700&lines=Jan+Nino+Turan+%7C+Full+Stack+Web+Dev;UI%2FUX+Design+%26+Machine+Learning;Expertise+in+Next.js+%26+Automation;Explore+My+Professional+Portfolio" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-Hi, I'm **Jan Nino Turan**, a passionate software engineer with a sharp eye for **efficiency**, **automation**, and **elegant design**. I build scalable systems and intuitive interfaces that **solve real-world problems** — fast, clean, and with purpose.
+Hi, I'm **Jan Nino Turan**, a passionate **Full Stack Web Developer** and **UI/UX Designer** with a sharp eye for **efficiency** and **elegant design**. I integrate **Machine Learning** into scalable web systems to build intuitive interfaces that **solve real-world problems** — fast, clean, and with purpose.
 
 🌐 Based in the Philippines  
-🧰 Focus: Full-Stack Development | Automation | UI/UX Systems  
-🚀 Passionate about speed, optimization, and clean code  
+🧰 Focus: Full-Stack (Next.js) | UI/UX Systems | AI & Automation  
+🚀 Passionate about performance, state management, and clean code  
 
 ---
 
@@ -30,10 +30,15 @@ Hi, I'm **Jan Nino Turan**, a passionate software engineer with a sharp eye for 
 ### 💡 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" />
+  <br/>
+  <img src="https://img.shields.io/badge/Zustand-443E38?logo=react&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat-square" />
+  <br/>
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?logo=tensorflow&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/MySQL-0078D6?logo=mysql&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual-studio&logoColor=white&style=flat-square" />
 </p>
@@ -45,11 +50,21 @@ Hi, I'm **Jan Nino Turan**, a passionate software engineer with a sharp eye for 
 <p align="center">
   <table>
     <tr>
+      <td valign="top"><img src="https://img.icons8.com/fluency/48/dog-paw-print.png"/></td>
+      <td>
+        <strong>FurFinder — AI-Powered Pet Tracker</strong><br/>
+        Intelligent platform for identifying and locating lost pets.<br/>
+        <em>🔧 Next.js · Machine Learning · Zustand · Tailwind CSS</em><br/>
+        <a href="#">🔗 [View Project]</a>
+      </td>
+    </tr>
+    <tr>
       <td valign="top"><img src="https://img.icons8.com/fluency/48/000000/system-task.png"/></td>
       <td>
         <strong>L.I.G.T.A.S — Disaster Risk Reduction System</strong><br/>
         Real-time alert and governance system built for community safety.<br/>
-        <em>🔧 Node.js · MySQL · TypeScript · Tailwind CSS</em>
+        <em>🔧 Node.js · MySQL · TypeScript · Tailwind CSS</em><br/>
+        <a href="#">🔗 [View Project]</a>
       </td>
     </tr>
     <tr>
@@ -57,7 +72,8 @@ Hi, I'm **Jan Nino Turan**, a passionate software engineer with a sharp eye for 
       <td>
         <strong>Restaurant Ordering System</strong><br/>
         Local Windows-based solution for order tracking & printing.<br/>
-        <em>🔧 Visual Studio 2012 (WinForms)</em>
+        <em>🔧 Visual Studio 2012 (WinForms)</em><br/>
+        <a href="#">🔗 [View Project]</a>
       </td>
     </tr>
     <tr>
@@ -65,7 +81,8 @@ Hi, I'm **Jan Nino Turan**, a passionate software engineer with a sharp eye for 
       <td>
         <strong>UNISCANNER — QR Attendance Tracker</strong><br/>
         Smart attendance solution for schools and events.<br/>
-        <em>🔧 TypeScript · Tailwind CSS · Node.js</em>
+        <em>🔧 TypeScript · Tailwind CSS · Node.js</em><br/>
+        <a href="#">🔗 [View Project]</a>
       </td>
     </tr>
   </table>

@@ -77,7 +77,7 @@ Hi, I'm **Jan Nino Turan**, a passionate **Full Stack Web Developer** and **UI/U
       </td>
     </tr>
     <tr>
-      <td valign="top"><img src="https://img.icons8.com/fluency/48/000000/qr-code.png"/></td>
+      <td valign="top"><img src="[https://img.icons8.com/fluency/48/000000/qr-code.png](https://uniscan-web.vercel.app/logo.png)"/></td>
       <td>
         <strong>UNISCANNER — QR Attendance Tracker</strong><br/>
         Smart attendance solution for schools and events.<br/>

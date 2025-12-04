@@ -82,7 +82,7 @@ Hi, I'm **Jan Nino Turan**, a passionate **Full Stack Web Developer** and **UI/U
         <strong>UNISCANNER — QR Attendance Tracker</strong><br/>
         Smart attendance solution for schools and events.<br/>
         <em>🔧 TypeScript · Tailwind CSS · Node.js</em><br/>
-        <a href="#">🔗 [View Project]</a>
+        <a href="uniscan-web.vercel.app">🔗 [View Project]</a>
       </td>
     </tr>
   </table>

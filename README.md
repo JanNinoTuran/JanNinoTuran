@@ -77,12 +77,12 @@ Hi, I'm **Jan Nino Turan**, a passionate **Full Stack Web Developer** and **UI/U
       </td>
     </tr>
     <tr>
-      <td valign="top"><img src="[https://img.icons8.com/fluency/48/000000/qr-code.png]"/></td>
+      <td valign="top"><img src="https://img.icons8.com/fluency/48/000000/qr-code.png"/></td>
       <td>
         <strong>UNISCANNER — QR Attendance Tracker</strong><br/>
         Smart attendance solution for schools and events.<br/>
         <em>🔧 TypeScript · Tailwind CSS · Node.js</em><br/>
-        <a href="uniscan-web.vercel.app">🔗 [View Project]</a>
+        <a href="#">🔗 [View Project]</a>
       </td>
     </tr>
   </table>

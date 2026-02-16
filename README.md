@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="Animated Car" />
-</p>
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHViOTBkYTZjODdnYXZienZmNGtpM3NqNnlqc3p2ZTlxMXh6bmtlaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pALw8LdftuqAw/giphy.gif" width="100%" />
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00A1D6&center=true&vCenter=true&width=700&lines=Jan+Nino+Turan+%7C+Full+Stack+Web+Dev;UI%2FUX+Design+%26+Machine+Learning;Expertise+in+Next.js+%26+Automation;Explore+My+Professional+Portfolio" alt="Typing SVG" />
@@ -55,34 +55,34 @@ Hi, I'm **Jan Nino Turan**, a passionate **Full Stack Web Developer** and **UI/U
         <strong>FurFinder — AI-Powered Pet Tracker</strong><br/>
         Intelligent platform for identifying and locating lost pets.<br/>
         <em>🔧 Next.js · Machine Learning · Zustand · Tailwind CSS</em><br/>
-        <a href="#">🔗 [View Project]</a>
+        <a href="#">🔗 View Project</a>
       </td>
     </tr>
     <tr>
-      <td valign="top"><img src="https://img.icons8.com/fluency/48/000000/system-task.png"/></td>
+      <td valign="top"><img src="https://img.icons8.com/fluency/48/system-task.png"/></td>
       <td>
         <strong>L.I.G.T.A.S — Disaster Risk Reduction System</strong><br/>
         Real-time alert and governance system built for community safety.<br/>
         <em>🔧 Node.js · MySQL · TypeScript · Tailwind CSS</em><br/>
-        <a href="#">🔗 [View Project]</a>
+        <a href="#">🔗 View Project</a>
       </td>
     </tr>
     <tr>
-      <td valign="top"><img src="https://img.icons8.com/color/48/000000/restaurant.png"/></td>
+      <td valign="top"><img src="https://img.icons8.com/color/48/restaurant.png"/></td>
       <td>
         <strong>Restaurant Ordering System</strong><br/>
         Local Windows-based solution for order tracking & printing.<br/>
         <em>🔧 Visual Studio 2012 (WinForms)</em><br/>
-        <a href="#">🔗 [View Project]</a>
+        <a href="#">🔗 View Project</a>
       </td>
     </tr>
     <tr>
-      <td valign="top"><img src="https://img.icons8.com/fluency/48/000000/qr-code.png"/></td>
+      <td valign="top"><img src="https://img.icons8.com/fluency/48/qr-code.png"/></td>
       <td>
         <strong>UNISCANNER — QR Attendance Tracker</strong><br/>
         Smart attendance solution for schools and events.<br/>
         <em>🔧 TypeScript · Tailwind CSS · Node.js</em><br/>
-        <a href="#">🔗 [View Project]</a>
+        <a href="#">🔗 View Project</a>
       </td>
     </tr>
   </table>
